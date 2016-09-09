@@ -375,7 +375,7 @@ class Chatbot:
             sess: The current running session
         """
 
-        print('WARNING: ', end='')
+        print('WARNING: ')
 
         modelName = self._getModelName()
 
